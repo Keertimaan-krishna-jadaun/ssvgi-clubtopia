@@ -4,7 +4,7 @@ import { Inter } from 'next/font/google'
 import { ThemeProvider } from 'next-themes'
 
 const inter = Inter({ subsets: ['latin'] })
-
+// keertimaan
 export const metadata: Metadata = {
   title: 'SSVGI - Shri Siddhi Vinayak Group of Institutions',
   description: 'Empowering Minds, Shaping Futures at SSVGI',
